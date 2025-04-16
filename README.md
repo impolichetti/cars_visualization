@@ -1,4 +1,4 @@
-this is my [website](http://localhost:8501/)
+this is my [streamlit app](http://localhost:8501/)
 # Airbnb Rental Price Prediction API
 
 This is a Flask-based API that predicts Airbnb rental prices based on several factors like bedrooms, bathrooms, accommodation capacity, and neighborhood. The API has two main endpoints:
